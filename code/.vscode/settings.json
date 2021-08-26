@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "system_error": "c"
+    },
+    "todohighlight.keywords": [
+        {
+            "text": " TODO:",
+            "color": "rgba(16, 20, 24, 1)",
+            "backgroundColor": "rgba(211, 45, 81, 1)",
+        },
+        {
+            "text": " NOTE:",
+            "color": "rgba(16, 20, 24, 1)",
+            "backgroundColor": "rgba(247, 183, 49,1)"
+        },
+        {
+            "text": " !!! ERROR:",
+            "color": "rgba(211, 45, 81, 1)",
+            "backgroundColor": "rgba(247, 183, 49,1)",
+            "isWholeLine": true,
+        },
+    ]
+    
+}
